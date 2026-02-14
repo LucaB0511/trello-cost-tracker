@@ -1,0 +1,16 @@
+{
+  "name": "Cost Tracker",
+  "details": "Erfassen Sie Kosten auf Karten und sehen Sie Zusammenfassungen pro Liste",
+  "icon": {
+    "url": "./images/icon.png"
+  },
+  "author": "Your Name",
+  "capabilities": [
+    "card-badges",
+    "card-buttons",
+    "list-actions",
+    "show-settings"
+  ],
+  "connectorUrl": "https://your-domain.com/index.html",
+  "version": "1.0.0"
+}
